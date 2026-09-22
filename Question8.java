@@ -1,12 +1,12 @@
 class Question8 {
     public static void main(String[] args) {
-        Student s1 = new Student();
-        s1.add(12,45);
-        s1.add(123, 456, 734);
-        s1.add(120.4, 130.5);
+        Calculator c1 = new Calculator();
+        c1.add(12,45);
+        c1.add(123, 456, 734);
+        c1.add(120.4, 130.5);
     }
 }
-class Student {
+class Calculator {
 
     public void add(int a, int b) {
     System.out.println(a+b);
