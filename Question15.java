@@ -12,6 +12,5 @@ class Question15 {
             System.out.print(reverse[i]);
               System.out.print(" ");
         }
-
     }
 }
