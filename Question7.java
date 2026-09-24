@@ -1,3 +1,5 @@
+// Create a Student class with name and marks. Create an object and print the values.
+
 class Question7 {
     public static void main(String[] args) {
         Student s1 = new Student();

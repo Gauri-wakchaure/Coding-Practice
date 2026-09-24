@@ -1,3 +1,9 @@
+/* Create a Calculator class with overloaded add() methods:
+   1. add(int, int)
+   2. add(int, int, int)
+   3. add(double, double)
+ */
+
 class Question8 {
     public static void main(String[] args) {
         Calculator c1 = new Calculator();

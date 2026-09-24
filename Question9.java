@@ -1,3 +1,5 @@
+// Create a Student class with a constructor that initializes name and marks.
+
 class Question9 {
     public static void main(String[] args) {
         Student s1 = new Student("Gauri", 92);
