@@ -1,3 +1,5 @@
+// Create an ArrayList<String> containing 5 names and print only the names whose length is greater than 5.
+
 import java.util.ArrayList;
 
 public class Question24 {

@@ -1,3 +1,5 @@
+// Create a list of integers and use a lambda expression with forEach() to print every number.
+
 import java.util.ArrayList;
 
 class Question27 {

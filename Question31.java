@@ -1,3 +1,5 @@
+//From a list of integers, use map() to create a new list containing the squares of each number.
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;

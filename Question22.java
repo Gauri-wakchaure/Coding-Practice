@@ -1,3 +1,5 @@
+// Write a program that handles division by zero using try-catch.
+
 public class Question22 {
     public static void main(String[] args) {
 

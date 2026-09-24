@@ -1,8 +1,8 @@
-// Using a HashMap, find the value associated with a particular key.
+// Create a HashMap<Integer, String> and Print all keys and values.
 
 import java.util.HashMap;
 
-class Question26 {
+class Question32 {
     public static void main(String[] args) {
         HashMap<Integer, String> map = new HashMap<Integer, String>();
         // Duplicate Keys, Elements not allowed
@@ -11,6 +11,6 @@ class Question26 {
         map.put(3, "PineApple");
         map.put(4, "Strawberry");
        
-        System.out.println(map.get(1));
+        System.out.println(map);
     }
 }

@@ -1,3 +1,9 @@
+/* From a list of integers, use Stream API to:
+   1. filter even numbers
+   2. sort them
+   3. collect them into a new list
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;

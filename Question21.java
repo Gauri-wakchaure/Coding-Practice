@@ -1,3 +1,5 @@
+// Create a method reverseNumber(int num) that returns the reversed number 
+
 public class Question21 {
     public static void main(String[] args) {
         ReverseNum r1 = new ReverseNum();
@@ -7,7 +9,6 @@ public class Question21 {
         System.out.println(r2.reverseNumber(654321));
     }
 }
-
 class ReverseNum {
      int num;
      int reverse = 0;

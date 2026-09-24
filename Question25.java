@@ -1,3 +1,5 @@
+// Create a HashSet<Integer> and add duplicate numbers. Print the set and observe what happens to duplicates.
+
 import java.util.HashSet;
 
 class Question25 {
