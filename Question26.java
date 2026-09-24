@@ -9,6 +9,6 @@ class Question26 {
         map.put(3, "PineApple");
         map.put(4, "Strawberry");
        
-        System.out.println(map);
+        System.out.println(map.get(1));
     }
 }
