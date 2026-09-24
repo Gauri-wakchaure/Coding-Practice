@@ -1,3 +1,5 @@
+// Find the largest element in an integer array.
+
 class Question10 {
     public static void main(String[] args) {
         int Array[] = {12,34, 9, 87, 32, 90, 56, 28,78};

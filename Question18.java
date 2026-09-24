@@ -1,3 +1,5 @@
+// Create a method findLargest(int a, int b, int c) that returns the largest number
+
 public class Question18 {
     public static void main(String[] args) {
         Find_Largest f1 = new Find_Largest();

@@ -1,3 +1,5 @@
+// Find whether a particular number exists in an array.
+
 public class Question13 {
     public static void main(String[] args) {
         int num = 30;

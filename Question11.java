@@ -1,3 +1,5 @@
+// Count how many even and odd numbers are present in an array.
+
 class Question11 {
     public static void main(String[] args) {
         int Array[] = {12, 34, 9, 87, 32, 90, 13, 67, 64, 85, 56, 28, 78};

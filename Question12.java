@@ -1,3 +1,5 @@
+// Calculate the sum and average of all elements in an array.
+
 class Question12 {
     public static void main(String[] args) {
         int Array[] = {10,20,30,40,50};
