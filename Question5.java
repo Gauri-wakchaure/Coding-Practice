@@ -1,3 +1,5 @@
+// Write a program to find the sum of digits of a number: Example: 1234 → 10
+
 class Question5 {
     public static void main(String[] args) {
           int num = 1234;

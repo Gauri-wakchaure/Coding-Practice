@@ -1,3 +1,5 @@
+// Write a program to check whether a number is a palindrome: Example: 121 → Palindrome
+
 class Question6 {
     public static void main(String[] args) {
           int num = 121;
@@ -15,5 +17,5 @@ class Question6 {
         }else {
             System.out.println(result+" is not Palidrome number");
         }
-    }
+    }s
 }

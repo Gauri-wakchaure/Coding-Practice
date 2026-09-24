@@ -1,3 +1,5 @@
+// Write a program to check whether a number is positive, negative, or zero.
+
 class Question1 {
     public static void main(String[] args) {
           int num = 98;

@@ -1,3 +1,5 @@
+// Write a program to check whether a number is prime.
+
 class Question3 {
     public static void main(String[] args) {
           int num = 15;
